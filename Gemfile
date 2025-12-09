@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source "https://gems.ruby-china.com"  # 国内源，避免下载失败
 
 gem "jekyll-theme-chirpy", "~> 7.3", ">= 7.3.1"
 
